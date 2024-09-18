@@ -1,0 +1,3 @@
+[submodule "users-service"]
+	path = users-service
+	url = https://github.com/SnejannaTumanova/Users_service.git
